@@ -35,4 +35,4 @@ If you need to install additional packages, please execute the corresponding com
 
 ### RUN SCRIPT AND CREATE FILE
 1. Run main script: `run_analysis.R`
-2. dara_tidy.txt is created
+2. data_tidy.txt is created
